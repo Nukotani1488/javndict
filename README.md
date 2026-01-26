@@ -1,0 +1,3 @@
+# JaVNDict
+
+[JavnDict](https://github.com/Nukotani1488/javndict) is a Japanese visual novel dictionary for Mozc / Google Japanese Input
